@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/scotcourts",
   "title": "Scotcourts",
   "description": "Scottish Courts and Tribunals Service (SCTS) — judgment search.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/scotcourts",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scotcourts",

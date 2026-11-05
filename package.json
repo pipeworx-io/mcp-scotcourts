@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scotcourts",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Scottish Courts and Tribunals Service (SCTS) — judgment search.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "scotcourts",
     "gatewaySlug": "scotcourts",
-    "sourceHash": "v1-4ead82f160230956402e9851b193a5dcb5c8079b119a0babd2ec49523629fa5a",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-ae75c7971d44828556105f92121db856d92d52fe7975b7ba0ca4d6f184003c53",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
